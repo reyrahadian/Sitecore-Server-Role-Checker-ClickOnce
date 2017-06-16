@@ -1,0 +1,4 @@
+#the following will tell Git that all ".manifest" or ".deploy" files are binary and should not be compared or adjusted
+*.manifest binary
+*.application binary
+*.deploy binary
